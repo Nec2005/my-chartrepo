@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demorepo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-18T17:06:06.7135446+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 20e65dec4382e16004d43d897e2acfc261c959de9b44804fbde2f51fd7f9c49f
+    name: demorepo
+    type: application
+    urls:
+    - demorepo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-18T17:06:06.7089699+01:00"
